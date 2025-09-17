@@ -14,7 +14,7 @@ import static java.lang.Math.signum;
 
 abstract public class Entity implements Displayable, HasHealth, HasCollision {
 
-
+//aaaaaaa
     protected final GamePanel gp;
     protected final int width;
     protected final int height;
